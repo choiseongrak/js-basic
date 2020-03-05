@@ -2,5 +2,14 @@ body {
     background: peru;
 }   
 h1 { 
-    color: white;
+    color: #dff9fb;
+    font-weight:bold;
+    font-size: 1.5rem;
+    transition: all 0.5s;
+}
+.btn  {
+    cursor: pointer;
+}
+.clicked { 
+    color: #30336b;
 }
